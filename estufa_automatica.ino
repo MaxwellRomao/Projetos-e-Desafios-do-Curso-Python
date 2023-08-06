@@ -58,6 +58,8 @@ void loop()
     delay(500);
   }
   
-  
-  
+
 } 
+
+// Link do trabalho no Thinkercad:
+// https://www.tinkercad.com/things/5NsLMlaXLDN-spectacular-turing/editel?sharecode=eZqPpIE7pyMgG-yddmY4iGMBPdur6iR7kv8fIqDOpaM
